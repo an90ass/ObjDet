@@ -43,10 +43,3 @@ flutter pub get
 
 # 4. Run the app on an emulator or connected device
 flutter run
-
-
-
-
-طط
-
-
