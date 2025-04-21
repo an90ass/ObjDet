@@ -13,7 +13,7 @@ This Flutter application demonstrates how to perform **real-time image classific
 - The **Lite0 version** is specifically designed for mobile and edge devices.
 - This project uses the **FP32 (32-bit floating point)** quantized `.tflite` version of the model for higher accuracy at the cost of slightly more processing.
 
- [More about EfficientNet models on TensorFlow Hub](https://tfhub.dev/s?q=efficientnet)
+ [More about EfficientNet models on TensorFlow Hub]([https://tfhub.dev/s?q=efficientnet](https://github.com/RangiLyu/EfficientNet-Lite))
 
 ---
 
